@@ -1,0 +1,37 @@
+{
+  "name": "chordhelper",
+  "version": "0.1.2",
+  "description": "Chord Hash Table",
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "author": "mascrypt0",
+  "contributors": [
+    {
+      "name": "mascrypt0",
+      "email": "techblogging9@gmail.com",
+      "web": "https://github.com/mascrypt0"
+    }
+  ],
+  "main": "chord.js",
+  "scripts": {
+    "test": "vows tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mascrypt0/ChordHelper.git"
+  },
+  "dependencies": {
+    "murmurhash3": "0.2.x",
+    "uuid": "1.4.x"
+  },
+  "devDependencies": {
+    "vows": "0.7.x"
+  },
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}

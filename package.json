@@ -1,0 +1,23 @@
+{
+  "name": "chordhelper",
+  "version": "1.0.0",
+  "description": "Chord Hash Table",
+  "main": "chord.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mascrypt0/chordhelper.git"
+  },
+  "keywords": [
+    "Chord",
+    "NPM"
+  ],
+  "author": "mascrytp0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mascrypt0/chordhelper/issues"
+  },
+  "homepage": "https://github.com/mascrypt0/chordhelper#readme"
+}
